@@ -27,4 +27,4 @@ I'm **Christian Josef**, a Cloud/DevOps Engineer passionate about cloud-native t
 </div>
 
 ---
-⭐️ From [Christian Josef](https://github.com/chrstnjsff)
+
