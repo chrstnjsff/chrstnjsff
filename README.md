@@ -3,7 +3,6 @@
 I'm **Christian Josef**, a Cloud/DevOps Engineer passionate about cloud-native technology and automation. I love exploring new tools and staying ahead in this fast-moving field.
 
 ## 🚀 About Me
-- 🔭 Currently optimizing cloud infrastructure and automating workflows
 - 🌱 Learning advanced Kubernetes and serverless architecture
 - 💬 Ask me about cloud computing, DevOps, or anything tech-related!
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cjosefaquino/)
